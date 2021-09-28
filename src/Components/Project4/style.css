@@ -1,0 +1,37 @@
+body{
+    /*background-color: rgb(18, 20, 34);*/
+}
+
+.contener{
+    width: 312px;
+    height: 320px;
+    margin-left: 500px;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blok{
+    background-color: green;
+    display: inline-flex;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    margin: -1px;
+    margin-left: 3px;
+    font-size: 80px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 10px 2px 30px 0px green;
+}
+.blok:active{
+    background: #c5bca3;
+}
+
+.blok:hover{
+    background-color: grey;
+}
+strong{
+    color: black;
+    margin-left: 460px;
+}

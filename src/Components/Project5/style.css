@@ -1,0 +1,23 @@
+.A{
+    width: 300px;
+    height: 300px;
+    margin: 70px;
+    border: 1px solid;
+    border-radius: 200px;
+    box-shadow: 10px 20px 20px 20px black;
+    animation-name: A ;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes A {
+    0%{
+        transform: rotate(-20deg);
+    }
+    50%{
+        transform: rotate(20deg);
+    }
+    100%{
+        transform: rotate(-20deg);
+    }
+}

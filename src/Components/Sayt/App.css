@@ -1,0 +1,12 @@
+.images{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin: 10px auto;
+    width: 50%;
+    height: 170px;
+}
+
+.cards:hover .images{
+    transform: scale(0.9);
+}

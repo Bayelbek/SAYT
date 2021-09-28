@@ -1,0 +1,29 @@
+body{
+    /*background: #545264;*/
+}
+
+.form-control{
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.s{
+    width: auto;
+    display: inline-block;
+    position: absolute;
+    left: 310px;
+    bottom: 520px;
+}
+
+.but{
+    position: absolute;
+    left: 900px;
+    top: 99px;
+}
+
+h1{
+    color: black;
+    margin-left: 10px;
+    margin-top: 30px;
+}

@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "1-lesson",
+			"path": "..\\..\\1-lesson"
+		},
+		{
+			"name": "2-lesson",
+			"path": "..\\..\\2-lesson"
+		},
+		{
+			"name": "3-lesson",
+			"path": "..\\..\\3-lesson"
+		},
+		{
+			"name": "js",
+			"path": "..\\..\\..\\OneDrive\\Документы\\Hello_VScode\\js"
+		},
+		{
+			"path": "..\\..\\4-lesson"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

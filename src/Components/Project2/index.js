@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-
+import About from './App'
+import './style.css'
 
 ReactDOM.render(
   <>
-    <App />
+    <About />
   </>,
   document.getElementById('root')
 );
